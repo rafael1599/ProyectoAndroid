@@ -1,0 +1,2 @@
+rootProject.name = "Comercial Quince"
+include ':app'
